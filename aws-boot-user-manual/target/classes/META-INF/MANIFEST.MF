@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Rajkumar
+Build-Jdk: 16.0.1
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 2021.08.15
+Implementation-Vendor-Id: aws.boot.user
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: aws.boot.user.App
+Created-By: Maven Integration for Eclipse
+

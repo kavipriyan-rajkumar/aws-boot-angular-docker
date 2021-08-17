@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: aws-boot-admin-server
+Implementation-Version: 2021.08.15
+Main-Class: aws.boot.user.application.AwsBootAdminServerApplication
+Created-By: Maven Integration for Eclipse
+

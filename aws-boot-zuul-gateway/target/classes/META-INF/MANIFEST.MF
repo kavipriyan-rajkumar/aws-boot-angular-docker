@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: aws-boot-zuul-gateway
+Implementation-Version: 2021.08.15
+Main-Class: aws.boot.user.App
+Created-By: Maven Integration for Eclipse
+

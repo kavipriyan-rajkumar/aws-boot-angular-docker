@@ -1,0 +1,11 @@
+aws\boot\user\entity\UserDomain.class
+aws\boot\user\repository\IUserSkeletonRepository.class
+aws\boot\user\controller\UserRestController.class
+aws\boot\user\model\UserModel.class
+aws\boot\user\validation\UserValidation.class
+aws\boot\user\services\IUserService.class
+aws\boot\user\services\UserService.class
+aws\boot\user\helper\ModelConverter.class
+aws\boot\user\application\UserServiceProducer.class
+aws\boot\user\repository\UserSkeletonRepository.class
+aws\boot\user\repository\UserSolrRepository.class

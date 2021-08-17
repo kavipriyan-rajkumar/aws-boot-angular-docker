@@ -1,0 +1,12 @@
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\repository\UserJPARepository.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\services\UserService.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\model\UserModel.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\repository\UserSkeletonRepository.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\repository\UserSolrRepository.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\services\IUserService.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\controller\UserRestController.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\helper\ModelConverter.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\entity\UserDomain.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\repository\IUserSkeletonRepository.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\application\UserServiceProducer.java
+D:\00_aws\aws-boot-angular-docker\aws-boot-docker-services\aws-boot-user-producer\src\main\java\aws\boot\user\validation\UserValidation.java

@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "swagger.app.api",
+      "type": "aws.boot.user.configuration.SwaggerConfig",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.app.api.base-package",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    },
+    {
+      "name": "swagger.app.api.contact-email",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    },
+    {
+      "name": "swagger.app.api.contact-name",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    },
+    {
+      "name": "swagger.app.api.description",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    },
+    {
+      "name": "swagger.app.api.title",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    },
+    {
+      "name": "swagger.app.api.version",
+      "type": "java.lang.String",
+      "sourceType": "aws.boot.user.configuration.SwaggerConfig"
+    }
+  ],
+  "hints": []
+}
